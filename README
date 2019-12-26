@@ -1,2 +1,4 @@
 WARNING
-Program is drastically slow and may take a day to fully finish
+Program is drastically slow and may take weeks to fully finish
+If you want to use Anaconda, prepare a backup for your PC in case of meltdown
+Reference is from https://machinelearningmastery.com/what-is-bayesian-optimization/ , with Google Colab's support and data reading
